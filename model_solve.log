@@ -1,0 +1,7 @@
+2024-02-05 19:40:44,387 - git.cmd - DEBUG - Popen(['git', 'version'], cwd=D:\LESGO, stdin=None, shell=False, universal_newlines=False)
+2024-02-05 19:40:44,511 - git.cmd - DEBUG - Popen(['git', 'rev-parse', '--show-toplevel'], cwd=D:\LESGO, stdin=None, shell=False, universal_newlines=False)
+2024-02-05 19:40:44,624 - git.cmd - DEBUG - Popen(['git', 'remote', 'get-url', '--all', 'origin'], cwd=D:\LESGO, stdin=None, shell=False, universal_newlines=False)
+2024-02-05 19:40:44,727 - git.cmd - DEBUG - Popen(['git', 'status', '--porcelain', '--untracked-files'], cwd=D:\LESGO, stdin=None, shell=False, universal_newlines=False)
+2024-02-05 19:40:44,845 - git.cmd - DEBUG - Popen(['git', 'diff', '--abbrev=40', '--full-index', '-M', '--raw', '-z', '--no-color'], cwd=D:\LESGO, stdin=None, shell=False, universal_newlines=False)
+2024-02-05 19:40:44,959 - git.cmd - DEBUG - Popen(['git', 'cat-file', '--batch-check'], cwd=D:\LESGO, stdin=<valid stream>, shell=False, universal_newlines=False)
+2024-02-05 19:40:45,071 - git.cmd - DEBUG - Popen(['git', 'rev-list', 'origin/main..main', '--'], cwd=D:\LESGO, stdin=None, shell=False, universal_newlines=False)

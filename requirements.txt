@@ -1,0 +1,14 @@
+numpy
+scipy
+pandas
+gurobipy
+networkx
+matplotlib
+plotly
+geopy
+streamlit
+openpyxl
+pulp
+altair<5
+utm
+geopandas
